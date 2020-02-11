@@ -1,4 +1,4 @@
-name: .NET Core
+name: Restart Container instance
 
 on: [push]
 

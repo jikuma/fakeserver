@@ -13,9 +13,9 @@ namespace MyFakeServer.Controllers
     {
         public static IDictionary<string, IDictionary<string, IDictionary<string, string>>> data = new Dictionary<string, IDictionary<string, IDictionary<string, string>>>(StringComparer.OrdinalIgnoreCase);
 
-        [HttpPost]
+        [HttpPut]
         [Route("{serverID}/{*url}")]
-        public async Task<ContentResult> Post(string serverID, string url, [FromBody] dynamic input, [FromQuery] string method)
+        public async Task<ContentResult> Put(string serverID, string url, [FromBody] dynamic input, [FromQuery] string method)
         {
             bool isValid = Guid.TryParse(serverID, out Guid guidOutput);
             if (!isValid)

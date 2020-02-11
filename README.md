@@ -1,11 +1,8 @@
 # fakeserver
 
 ## Endpoints
-fakeserver.westus.azurecontainer.io
 
-fakeserverindia.southindia.azurecontainer.io
-
-fakeserverweu.westeurope.azurecontainer.io
+fakeserver.trafficmanager.net
 
 ## Configure fake server
 

@@ -124,4 +124,4 @@ GET http://fakeserver.westus.azurecontainer.io/server/228756a0-46bb-4280-b69a-ab
 
 Since data is currently stored in memory and server is configured to restart when memory exceeds a certain limit, assume server configuration to be volatile.
 
-Primary use case is to support test development of client without need of the server.
+Primary use case is to support test-driven development of client without the need of the server.

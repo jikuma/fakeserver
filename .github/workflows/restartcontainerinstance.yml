@@ -1,7 +1,12 @@
 name: Restart Container instance
 
-on: [push]
-
+on: 
+  push:
+    branches: 
+      - master
+  schedule:
+    - cron: '@weekly'
+    
 jobs:
   build:
 

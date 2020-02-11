@@ -1,0 +1,23 @@
+name: .NET Core
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    # Authentication
+    - uses: azure/login@v1
+      with:
+        creds: ${{ secrets.AZURE_CREDENTIALS  }}
+    - name: Azure CLI script to create a new Web App for Container
+      uses: azure/CLI@v1
+      with:
+        azcliversion: latest
+        inlineScript: |
+          az container restart --name fakeserver --resource-group fakeserver --subscription 48028acd-b54a-4a14-8e4c-a289a6ff61f9
+          az container restart --name fakeserverindia --resource-group fakeserver --subscription 48028acd-b54a-4a14-8e4c-a289a6ff61f9
+          az container restart --name fakeserverweu --resource-group fakeserver --subscription 48028acd-b54a-4a14-8e4c-a289a6ff61f9

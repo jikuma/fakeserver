@@ -122,7 +122,7 @@ GET http://fakeserver.westus.azurecontainer.io/server/228756a0-46bb-4280-b69a-ab
 
 ### Limitations
 
-Since data is currently stored in memory and server is configured to restart when memory exceeds a certain limit, assume server configuration to be volatile.
+Since data is currently stored in memory and server is configured to restart when memory exceeds a certain limit, assume server configuration to be volatile in long duration (range of weeks depending on load).
 
 Primary use case is to support test-driven development of client without the need of the server.
 

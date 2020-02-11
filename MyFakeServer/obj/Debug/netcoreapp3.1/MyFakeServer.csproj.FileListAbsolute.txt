@@ -1,0 +1,17 @@
+C:\Users\jikuma\source\repos\MyFakeServer\MyFakeServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jikuma\source\repos\MyFakeServer\MyFakeServer\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jikuma\source\repos\MyFakeServer\MyFakeServer\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\jikuma\source\repos\MyFakeServer\MyFakeServer\bin\Debug\netcoreapp3.1\MyFakeServer.exe
+C:\Users\jikuma\source\repos\MyFakeServer\MyFakeServer\bin\Debug\netcoreapp3.1\MyFakeServer.deps.json
+C:\Users\jikuma\source\repos\MyFakeServer\MyFakeServer\bin\Debug\netcoreapp3.1\MyFakeServer.runtimeconfig.json
+C:\Users\jikuma\source\repos\MyFakeServer\MyFakeServer\bin\Debug\netcoreapp3.1\MyFakeServer.runtimeconfig.dev.json
+C:\Users\jikuma\source\repos\MyFakeServer\MyFakeServer\bin\Debug\netcoreapp3.1\MyFakeServer.dll
+C:\Users\jikuma\source\repos\MyFakeServer\MyFakeServer\bin\Debug\netcoreapp3.1\MyFakeServer.pdb
+C:\Users\jikuma\source\repos\MyFakeServer\MyFakeServer\obj\Debug\netcoreapp3.1\staticwebassets\MyFakeServer.StaticWebAssets.Manifest.cache
+C:\Users\jikuma\source\repos\MyFakeServer\MyFakeServer\obj\Debug\netcoreapp3.1\staticwebassets\MyFakeServer.StaticWebAssets.xml
+C:\Users\jikuma\source\repos\MyFakeServer\MyFakeServer\obj\Debug\netcoreapp3.1\MyFakeServer.AssemblyInfoInputs.cache
+C:\Users\jikuma\source\repos\MyFakeServer\MyFakeServer\obj\Debug\netcoreapp3.1\MyFakeServer.AssemblyInfo.cs
+C:\Users\jikuma\source\repos\MyFakeServer\MyFakeServer\obj\Debug\netcoreapp3.1\MyFakeServer.RazorTargetAssemblyInfo.cache
+C:\Users\jikuma\source\repos\MyFakeServer\MyFakeServer\obj\Debug\netcoreapp3.1\MyFakeServer.dll
+C:\Users\jikuma\source\repos\MyFakeServer\MyFakeServer\obj\Debug\netcoreapp3.1\MyFakeServer.pdb
+C:\Users\jikuma\source\repos\MyFakeServer\MyFakeServer\obj\Debug\netcoreapp3.1\MyFakeServer.MvcApplicationPartsAssemblyInfo.cache
